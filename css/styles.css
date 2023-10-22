@@ -42,7 +42,7 @@
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
 /*   --bs-primary-rgb: 244, 98, 58; */
-  --bs-primary-rgb: 8, 132, 4;
+  --bs-primary-rgb: 202, 214, 239;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -3033,13 +3033,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #e0e7f6;
-  border-color: #e0e7f6;
+  background-color: #cad6ef;
+  border-color: #cad6ef;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #cad6ef;
-  border-color: #cad6ef;
+  background-color: #b6cdfd;
+  border-color: #b6cdfd;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -11321,12 +11321,12 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #212529;
+  background-color: #ffffff;
   opacity: 1;
 }
 
 hr.divider-light {
-  background-color: #212529;
+  background-color: #ffffff;
 }
 
 #mainNav {
