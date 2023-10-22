@@ -11321,12 +11321,12 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #088404;
+  background-color: #212529;
   opacity: 1;
 }
 
 hr.divider-light {
-  background-color: #fff;
+  background-color: #212529;
 }
 
 #mainNav {
@@ -11375,7 +11375,7 @@ hr.divider-light {
   }
   #mainNav.navbar-shrink {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #fff;
+    background-color: #212529;
   }
   #mainNav.navbar-shrink .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
